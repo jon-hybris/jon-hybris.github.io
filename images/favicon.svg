@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="fTitle fDesc">
+  <title id="fTitle">JE favicon</title>
+  <desc id="fDesc">Blue and orange JE monogram with upward swoosh.</desc>
+  <rect width="64" height="64" rx="12" fill="white"/>
+  <path d="M8 10 H28 L26 37 C25 48 18 54 9 54 C3 54 -1 49 1 41 C2 37 4 34 7 31 C5 35 6 41 12 43 C18 45 22 41 23 36 L24 18 H8 Z" fill="#1E4A86"/>
+  <path d="M28 10 H56 L53 20 H36 L35 27 H50 L48 35 H34 L33 44 H58 L55 54 H20 C26 50 30 45 31 36 Z" fill="#F47A20"/>
+  <path d="M6 43 C24 40 36 32 58 12" stroke="#F47A20" stroke-width="4" stroke-linecap="round"/>
+  <path d="M8 45 C24 42 38 33 57 15" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</svg>

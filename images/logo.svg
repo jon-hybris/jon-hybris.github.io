@@ -1,0 +1,14 @@
+<svg width="900" height="180" viewBox="0 0 900 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Jon Elslager Ecommerce and ERP Solutions logo</title>
+  <desc id="logoDesc">Stylized JE monogram in blue and orange with Jon Elslager Ecommerce and ERP Solutions text.</desc>
+  <rect width="900" height="180" fill="transparent"/>
+  <g transform="translate(20,20)">
+    <path d="M35 18 H120 L112 92 C107 131 76 150 38 150 C6 150 -10 124 -2 97 C2 83 10 72 22 62 C12 78 16 102 46 109 C78 116 93 97 95 80 L100 40 H35 Z" fill="#1E4A86"/>
+    <path d="M120 18 H222 L208 58 H149 L144 79 H200 L190 117 H136 L129 142 H234 L220 180 H83 C105 163 121 145 126 111 Z" transform="translate(0,-30)" fill="#F47A20"/>
+    <path d="M16 120 C120 100 190 66 286 -8" stroke="#F47A20" stroke-width="16" stroke-linecap="round"/>
+    <path d="M25 126 C120 107 196 71 290 -6" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <text x="320" y="88" font-size="68" font-family="Segoe UI, Arial, sans-serif" font-weight="700" fill="#1E4A86">Jon</text>
+  <text x="480" y="88" font-size="68" font-family="Segoe UI, Arial, sans-serif" font-weight="700" fill="#F47A20">Elslager</text>
+  <text x="320" y="138" font-size="38" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1.5" fill="#5D6167">ECOMMERCE &amp; ERP SOLUTIONS</text>
+</svg>
