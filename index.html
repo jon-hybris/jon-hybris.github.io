@@ -1,34 +1,175 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Jon Test Site</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 700px;
-      margin: 60px auto;
-      padding: 0 20px;
-      line-height: 1.6;
-    }
-    h1 {
-      margin-bottom: 10px;
-    }
-    .box {
-      border: 1px solid #ccc;
-      padding: 20px;
-      border-radius: 8px;
-      margin-top: 20px;
-    }
-  </style>
-</head>
-<body>
-  <h1>GitHub Pages is working</h1>
-  <p>If you can see this, your static site is live.</p>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Jon Elslager - Senior Ecommerce Project Manager, Technical Product Owner, and Business Systems Analyst."
+    />
+    <title>Jon Elslager | Ecommerce Project Manager</title>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <!-- Site header and primary navigation -->
+    <header class="site-header" id="home">
+      <nav class="container nav" aria-label="Primary navigation">
+        <a class="brand" href="#home">Jon Elslager</a>
+        <button
+          class="nav-toggle"
+          type="button"
+          aria-label="Toggle navigation"
+          aria-expanded="false"
+        >
+          ☰
+        </button>
+        <ul class="nav-links">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#expertise">Expertise</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#platforms">Platforms</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
 
-  <div class="box">
-    <strong>Next step:</strong> connect your custom domain.
-  </div>
-</body>
+    <main>
+      <!-- Hero section: personal brand statement and quick actions -->
+      <section class="hero section" aria-labelledby="hero-title">
+        <div class="container hero-content">
+          <p class="eyebrow">Senior Ecommerce Delivery Leadership</p>
+          <h1 id="hero-title">Jon Elslager</h1>
+          <p class="hero-subtitle">
+            Ecommerce Project Manager | Technical Product Owner | Business Systems Analyst
+          </p>
+          <p class="hero-summary">
+            I lead complex ecommerce implementations across platforms like Adobe Commerce,
+            BigCommerce, and SAP Commerce, helping companies launch scalable digital commerce
+            experiences.
+          </p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#experience">View Experience</a>
+            <a class="btn btn-secondary" href="#contact">Contact Me</a>
+            <a
+              class="btn btn-outline"
+              href="https://www.linkedin.com/in/jonathon-elslager/"
+              target="_blank"
+              rel="noopener noreferrer"
+              >LinkedIn</a
+            >
+          </div>
+        </div>
+      </section>
+
+      <!-- Core expertise section: grouped capabilities in card layout -->
+      <section class="section" id="expertise" aria-labelledby="expertise-title">
+        <div class="container">
+          <h2 id="expertise-title">Core Expertise</h2>
+          <div class="grid expertise-grid">
+            <article class="card">
+              <h3>Ecommerce Platforms</h3>
+              <ul>
+                <li>Adobe Commerce</li>
+                <li>BigCommerce</li>
+                <li>Shopware</li>
+                <li>Shopify</li>
+              </ul>
+            </article>
+            <article class="card">
+              <h3>ERP Integrations</h3>
+              <ul>
+                <li>NetSuite</li>
+                <li>SAP</li>
+                <li>Acumatica</li>
+                <li>ERPLY</li>
+              </ul>
+            </article>
+            <article class="card">
+              <h3>Delivery Leadership</h3>
+              <ul>
+                <li>Agile delivery</li>
+                <li>Stakeholder management</li>
+                <li>Cross-functional teams</li>
+                <li>Platform migrations</li>
+              </ul>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- Featured experience section: high-impact work categories -->
+      <section class="section section-alt" id="experience" aria-labelledby="experience-title">
+        <div class="container">
+          <h2 id="experience-title">Featured Experience</h2>
+          <div class="grid experience-grid">
+            <article class="card">
+              <h3>Agency Ecommerce Delivery</h3>
+              <p>
+                Leading discovery, roadmap planning, and delivery for complex ecommerce builds.
+              </p>
+            </article>
+            <article class="card">
+              <h3>Platform Migrations</h3>
+              <p>
+                Guiding businesses from legacy commerce platforms to modern composable stacks.
+              </p>
+            </article>
+            <article class="card">
+              <h3>B2B Commerce</h3>
+              <p>
+                Dealer portals, ERP integrations, pricing rules, and large catalog
+                implementations.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- Selected platforms section: quick visual scan of technology exposure -->
+      <section class="section" id="platforms" aria-labelledby="platforms-title">
+        <div class="container">
+          <h2 id="platforms-title">Selected Platforms</h2>
+          <ul class="platform-grid" aria-label="Platforms and systems worked with">
+            <li>Adobe Commerce</li>
+            <li>BigCommerce</li>
+            <li>Shopware</li>
+            <li>Hybris</li>
+            <li>NetSuite</li>
+            <li>SAP</li>
+            <li>Akeneo</li>
+            <li>Salsify</li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- Contact section: recruiter-friendly direct contact channels -->
+      <section class="section section-alt" id="contact" aria-labelledby="contact-title">
+        <div class="container contact">
+          <h2 id="contact-title">Contact</h2>
+          <p>I'm open to discussing senior ecommerce delivery and product leadership roles.</p>
+          <ul class="contact-list">
+            <li>
+              <span>Email:</span>
+              <a href="mailto:jonathon.elslager@gmail.com">jonathon.elslager@gmail.com</a>
+            </li>
+            <li>
+              <span>LinkedIn:</span>
+              <a href="https://www.linkedin.com/in/jonathon-elslager/" target="_blank" rel="noopener noreferrer"
+                >linkedin.com/in/jonathon-elslager/</a
+              >
+            </li>
+          </ul>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer: concise ownership and copyright line -->
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; <span id="current-year"></span> Jon Elslager. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+  </body>
 </html>
