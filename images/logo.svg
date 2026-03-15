@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 165" role="img" aria-labelledby="logoTitle logoDesc" preserveAspectRatio="xMinYMid meet">
+  <title id="logoTitle">Jon Elslager Ecommerce &amp; ERP Solutions</title>
+  <desc id="logoDesc">Logo lockup with ecommerce cart icon and Jon Elslager wordmark.</desc>
+
+  <!-- icon -->
+  <g transform="translate(0 16)">
+    <path d="M40 30h48c4 0 7 3 8 7l2 14h68l-8 64H76l-10-62H40c-6 0-10-4-10-11s4-12 10-12z" fill="#F7941D"/>
+    <circle cx="92" cy="124" r="18" fill="#1C3F8A"/>
+    <circle cx="146" cy="124" r="18" fill="#1C3F8A"/>
+    <circle cx="92" cy="124" r="8" fill="#fff"/>
+    <circle cx="146" cy="124" r="8" fill="#fff"/>
+    <path d="M8 54h40M8 73h40M8 92h40" stroke="#1B63B3" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="8" cy="54" r="6" fill="none" stroke="#1B63B3" stroke-width="4"/>
+    <circle cx="8" cy="73" r="6" fill="none" stroke="#1B63B3" stroke-width="4"/>
+    <circle cx="8" cy="92" r="6" fill="none" stroke="#1B63B3" stroke-width="4"/>
+    <path d="M160 44l-6-10 6-10h12l6-10h11l6 10h12l6 10 12 4v12l10 8-4 12 4 12-10 8v12l-12 4-6 10h-12l-6 10h-11l-6-10h-12l-6-10-12-4v-12l-10-8 4-12-4-12 10-8V48z" fill="#1454A4"/>
+    <circle cx="190" cy="66" r="26" fill="#E8E8E8"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="300" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="90" font-weight="700" fill="#1C3F8A">Jon</text>
+  <text x="500" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="90" font-weight="700" fill="#F47A20">Elslager</text>
+  <line x1="300" y1="120" x2="445" y2="120" stroke="#A0A0A0" stroke-width="2"/>
+  <text x="470" y="136" font-family="Segoe UI, Arial, sans-serif" font-size="52" letter-spacing="2" fill="#5B5F64">ECOMMERCE &amp; ERP SOLUTIONS</text>
+</svg>
