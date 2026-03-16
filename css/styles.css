@@ -92,9 +92,19 @@ h3 {
 
 .brand {
   text-decoration: none;
+<<<<<<< codex/create-static-personal-portfolio-website-1b9iq3
   font-weight: 700;
   color: var(--text);
   white-space: nowrap;
+=======
+  color: var(--text);
+}
+
+.brand-logo {
+  display: block;
+  width: min(420px, 62vw);
+  height: auto;
+>>>>>>> main
 }
 
 .nav-links {
@@ -280,6 +290,13 @@ h3 {
 }
 
 @media (max-width: 700px) {
+<<<<<<< codex/create-static-personal-portfolio-website-1b9iq3
+=======
+  .brand-logo {
+    width: min(300px, 72vw);
+  }
+
+>>>>>>> main
   .section {
     padding: 4.25rem 0;
   }
