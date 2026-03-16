@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">JE favicon</title>
+  <desc id="desc">Simple JE initials in a square.</desc>
+  <rect width="64" height="64" rx="10" fill="#1C3F8A"/>
+  <text x="50%" y="52%" text-anchor="middle" dominant-baseline="middle" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#F47A20">JE</text>
+</svg>
